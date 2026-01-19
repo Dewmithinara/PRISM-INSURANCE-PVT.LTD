@@ -35,7 +35,7 @@ Relationships are created using **primary and foreign keys** to ensure accurate 
 
 ---
 
-## 📐 Key DAX Measures Created
+##  Key DAX Measures Created
 - Total Sales  
 - Total Customers  
 - Total Policies  
@@ -48,7 +48,7 @@ These measures help track business performance over different time periods.
 
 ---
 
-## 📊Dashboard Features
+## Dashboard Features
 
 ###  KPI Section (Top of Dashboard)
 - Total Sales  
